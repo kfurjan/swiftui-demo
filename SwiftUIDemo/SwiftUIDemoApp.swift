@@ -2,7 +2,7 @@
 //  SwiftUIDemoApp.swift
 //  SwiftUIDemo
 //
-//  Created by Ericsson on 19.01.2023..
+//  Created by Ericsson on 19.01.2023.
 //
 
 import SwiftUI
